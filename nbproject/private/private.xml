@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/InsertConseil.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/index.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/InsertVenteServlet.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/HistoriqueController.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/ListeCommission.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/ListeConseil.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/InsertConseil.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/Historique.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/listeConseilController.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/InsertConseilController.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/model/Genre.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/updateProduit.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/ListeVenteController.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/model/Vendeur.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/CommissionGenre.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/InsertVente.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/UpdateProduit.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/model/Conseil.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/ListeClient.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/model/Produit.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/ListeComission.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/ListeProduitServlet.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/InsertProduit.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/model/Commission.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/model/Vente.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/fabrication.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/model/PrixProduit.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/addProduit.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/ListeProduit.jsp</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/src/java/controller/CommissionGenre.java</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/User/Documents/saryImg/Boulangerie/Boulangerie/web/sidebar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
